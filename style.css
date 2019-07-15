@@ -2,10 +2,23 @@ p {
     background-color: teal;
     width: 200px;
     height: 150px;
-    border: 10px dashed white;
+    border: 10px dashed grey;
     overflow: auto;
     color: white;
 }
 html {
     background-color: grey;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+  }
+  .carousel-inner{
+      background-color: teal;
+  }
+  .carousel-outer {
+      background-color: grey;
+  }
+  head{
+      background-color: grey;
 }
