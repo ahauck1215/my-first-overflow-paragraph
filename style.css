@@ -1,0 +1,11 @@
+p {
+    background-color: teal;
+    width: 200px;
+    height: 150px;
+    border: 10px dashed white;
+    overflow: auto;
+    color: white;
+}
+html {
+    background-color: grey;
+}
